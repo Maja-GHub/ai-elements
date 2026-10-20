@@ -19,10 +19,10 @@
     "@vitest/browser-preview": "^4.0.17",
     "oxfmt": "^0.28.0",
     "oxlint": "^1.43.0",
-    "turbo": "2.8.14",
+    "turbo": "2.11.9",
     "typescript": "5.9.3",
     "ultracite": "7.1.4",
-    "vitest": "^4.0.17"
+    "vitest": "^5.0.5"
   },
   "engines": {
     "node": ">=20.12"
